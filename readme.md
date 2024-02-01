@@ -24,4 +24,13 @@ tracking files:
 `git add readme`
 
 commit
-git commit -m "notes of git class completed"
+`git commit -m "notes of git class completed"`
+
+Open the github -> create repository -> don't add readme file from there u will get the remote add origin code
+
+run the below code now
+`git remote add origin https://github.com/priyarai05/git-notes.git`
+
+pushing code to git hub
+`git push`
+`git push --set-upstream origin main`
